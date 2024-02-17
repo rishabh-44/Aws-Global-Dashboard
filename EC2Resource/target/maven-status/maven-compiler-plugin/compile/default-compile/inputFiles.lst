@@ -1,0 +1,12 @@
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/utils/Retry.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/service/EC2Service.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/EC2ResourceApplication.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/config/EC2ClientRegionMapper.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/controller/NetworkResourceController.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/service/NetworkResourceService.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/controller/VolumeController.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/config/BeanConfiguration.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/service/VolumeService.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/config/CacheConfig.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/service/client/EC2Client.java
+/Users/rishabh/Desktop/AWS global dashboard/AWS-global-dashboard/EC2Resource/src/main/java/com/consultadd/controller/EC2Controller.java
