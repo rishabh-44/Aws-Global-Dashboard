@@ -11,6 +11,7 @@
         <module>EC2Resource</module>
         <module>IAMResource</module>
         <module>RDSResource</module>
+        <module>S3Resource</module>
     </modules>
     <packaging>pom</packaging>
 
