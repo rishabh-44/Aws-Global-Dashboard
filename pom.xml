@@ -10,6 +10,7 @@
     <modules>
         <module>EC2Resource</module>
         <module>IAMResource</module>
+        <module>RDSResource</module>
     </modules>
     <packaging>pom</packaging>
 
